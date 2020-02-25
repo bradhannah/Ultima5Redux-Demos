@@ -16,4 +16,24 @@ For example my personal directory looks like <br>
 -> `C:\games\Ultima_5\im_scared\*`<br>
 I know this is kind of silly, but I just haven't gotten around to adding the option to choose your own base directory.
 
-3. Download the package 
+3. Download the package from here: https://github.com/bradhannah/Ultima5Redux-Demos/tree/master/Feb-24-2020 for your appropriate operating system
+
+4. Unzip the game into whatever directory you see fit
+
+5. Run `Ultima5Redux3D` 
+
+6. When the loading screen opens be sure to choose `Select Save Game`. You should see the Ultima 5 directories you have dropped onto the disk in step 2. Choose one and click `Load`
+
+7. Choose `Journey Onward`
+
+8. The "game" should start up from the save data provided. 
+
+9. You will notice a few things
+* There is an annoying text box (debug console). Simply press `C` to toggle it
+* It may have crashes or not worked in some way or another. Curious - but not suprising, I haven't tested this on any other machines yet. Let me know if you had a problem - but I can't be certain I can help. But I'll try.
+
+10. Have fun and play around! There is a `D`ebug menu you can use to teleport and monkey around. There is no save feature, so it's safe and won't harm your save file.
+
+If you're keen to submit a feature request, bug, issue or whatever please use the Issue tracker found here: https://github.com/bradhannah/Ultima5Redux/issues
+
+Good luck!
