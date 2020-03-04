@@ -20,7 +20,11 @@ I know this is kind of silly, but I just haven't gotten around to adding the opt
 
 4. Unzip the game into whatever directory you see fit
 
-5. Run `Ultima5Redux3D` 
+4.5 IF you are MacOS then will need to do the following:
+`chmod +x Ultima5Redux-MacOSX-Feb-24-2020.app/Contents/MacOS/*` - also you need to hold down CTRL and right click the app and click open since it is not a trusted app.
+
+5a. Windows -> Run `Ultima5Redux3D` 
+5b. MacOSX -> Run `Ultima5Redux-MacOSX-Feb-24-2020.app`
 
 6. When the loading screen opens be sure to choose `Select Save Game`. You should see the Ultima 5 directories you have dropped onto the disk in step 2. Choose one and click `Load`
 
