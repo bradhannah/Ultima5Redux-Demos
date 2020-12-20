@@ -16,7 +16,7 @@ For example my personal directory looks like <br>
 -> `C:\games\Ultima_5\im_scared\*`<br>
 I know this is kind of silly, but I just haven't gotten around to adding the option to choose your own base directory.
 
-3. Download the package from here: https://github.com/bradhannah/Ultima5Redux-Demos/tree/master/Feb-24-2020 for your appropriate operating system
+3. Download the package from here: https://github.com/bradhannah/Ultima5Redux-Demos/tree/master/Dec-19-2020 for your appropriate operating system
 
 4. Unzip the game into whatever directory you see fit
 
